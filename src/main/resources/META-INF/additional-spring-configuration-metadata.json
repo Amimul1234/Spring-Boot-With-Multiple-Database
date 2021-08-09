@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "hibernate.search.default.directory_provider",
+      "type": "java.lang.String",
+      "description": "Description for hibernate.search.default.directory_provider."
+    },
+    {
+      "name": "hibernate.search.default.indexBase",
+      "type": "java.lang.String",
+      "description": "Description for hibernate.search.default.indexBase."
+    },
+    {
+      "name": "management.security.enabled",
+      "type": "java.lang.String",
+      "description": "Description for management.security.enabled."
+    }
+  ] }
